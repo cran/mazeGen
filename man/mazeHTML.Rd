@@ -6,7 +6,7 @@
 \usage{
 mazeHTML(rank = 3, satPercent = 0.5, seed = 1, grid = NULL, wd = NULL,
   background = "#7abcff", boxBackground = "#66CDAA", fontColour = "white",
-  Timer = TRUE)
+  Timer = TRUE, concerto = "C5")
 }
 \arguments{
 \item{rank}{This is the Rank of the maze.}
@@ -26,6 +26,8 @@ mazeHTML(rank = 3, satPercent = 0.5, seed = 1, grid = NULL, wd = NULL,
 \item{fontColour}{The font colour of the instructions.}
 
 \item{Timer}{If True, a time limit of 4 mintues is given per question.}
+
+\item{concerto}{The code varies between concerto version "C4" and "C5".}
 }
 \description{
 This function generates an Elithorn Maze
@@ -50,7 +52,7 @@ grid <- gridThreeUp
 #Generate item
 mazeHTML(rank,satPercent,seed=5,grid = grid,wd=NULL,
 background="#7abcff",boxBackground="#66CDAA", fontColour="white ",
-Timer=TRUE)
+Timer=TRUE, concerto="C5")
 
 }
 \author{

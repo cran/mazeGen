@@ -26,7 +26,7 @@ This function calculates the weighted score of the participant given the number 
 
 where \eqn{2^R} is the total number of paths and \eqn{U_{m}} is the paths through the specified number of dots. The formula for Model 2:
 
-\deqn{U_{\hat{m}}/U_{m})}
+\deqn{log(U_{\hat{m}}/U_{m})}
 
 where \eqn{U_{\hat{m}}} is the value with the maximum number of connected dots. The formula for Model 3:
 
@@ -34,7 +34,7 @@ where \eqn{U_{\hat{m}}} is the value with the maximum number of connected dots. 
 
 where \eqn{s^{4}} is the saturation value. The formula for Model 4 is:
 
-\deqn{U_{\hat{m}}*s^{4}/U_{m})}
+\deqn{log(U_{\hat{m}}*s^{4}/U_{m})}
 
 We included all four models to calculate maze ability.
 }
