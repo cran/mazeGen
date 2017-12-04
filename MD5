@@ -1,6 +1,6 @@
-e2395f3023f31100f22111c74da8a265 *DESCRIPTION
+aa465c2996075765af3dd3a0f3f6261f *DESCRIPTION
 738a0d5eea1a06e2ad955bafbb6f9cc7 *NAMESPACE
-5ec8fe39f1003b5136a4f284cd18ee07 *NEWS.md
+1510ea3553a41af0bfbb8711b26f132f *NEWS.md
 cc4f7fcdb663b7fcbae45d2305e436f2 *R/blackNodeRoutes.R
 5ee13ab08527868607b59ac4e4bbf062 *R/classes.R
 3116ef86ea8894b0bb23d826145a4704 *R/colleage.R
@@ -11,7 +11,7 @@ caecc177b4564647e4896e8811a55e03 *R/data.R
 08100d439988b47a98ec59ecb4f85fb8 *R/genPathSeed.R
 1505ac4e94469f87acf710110085e827 *R/genmaze.R
 0a95bfa18d3bd42ef86e5145cf052b12 *R/howmany.R
-290d4339588e9eb9bb18a8a0d70ce999 *R/jsTimer.R
+64127c39d69132c9115058fcdc6172ba *R/jsTimer.R
 c2c8a35b39464dd0e5cbbcd7fb357be6 *R/lookUniqueNodePositions.R
 7cb5daf5e8c8696dca872f978784f9c0 *R/lookuniquesolution.R
 6c0c01bbf6d3dc7ad0497a7084dd95c1 *R/lowerGrid.R
@@ -21,13 +21,13 @@ f1953a38ac5e41dffa69e57cb49cc269 *R/mazeAbility.R
 954608169b97be63e88baf4b697b4131 *R/mazeDiff.R
 9e2166885b89a0fb8dbcdc1d23873aa9 *R/mazeEst.R
 5907ad9aff7e53461297a9cf146aa3b0 *R/mazeGen.R
-dc40caaab7d7f63f80bd957d6260fc9a *R/mazeHTML.R
+4063bc8a41a4a526f0b37fc53b56d8e4 *R/mazeHTML.R
 e4ce72898950865857ccd860a58fdae9 *R/mazeObject.R
 04522a35024495290659a0cb21d9ba97 *R/minLegRoutes.R
 c81c69a0d9d2434eaaead55c62850c6f *R/minStep.R
 f5fa3315b573e4b72e8efcbc188d52a6 *R/solution.R
 576e70659b1cb2acb75f69460e4dd7de *R/topNodes.R
-32fd6bc1169cee86f0aadd5588aa806f *README.md
+3dbaa62d822777dea257cbd746224663 *README.md
 2ba74bfc9a25f86452814da1aae91a89 *data/gridEightDown.rda
 5ebc442b3e54e683559df427de59d579 *data/gridEightLeft.rda
 ce3ee99b97e70e11d173b5a58d323f00 *data/gridEightRight.rda
@@ -179,7 +179,7 @@ b254948bf5c3a12aef707fed6da5206b *man/maxScore.Rd
 ab6d076dd3a5f9cffccbd9e7c368bde2 *man/mazeDiff.Rd
 c4bff638cd592e3264851826d3ed8af2 *man/mazeEst.Rd
 1c65af4dca207e95b44b57600ee652aa *man/mazeGen.Rd
-01b84763cf1b9b2e08382b799d4c1985 *man/mazeHTML.Rd
+afae6053b1762294294076695feaf5d4 *man/mazeHTML.Rd
 eb08d43769db027023e8c78a7777ed7d *man/mazeObject.Rd
 933ef7e59b185f2d39faac58783db603 *man/np.Rd
 a2fcb3ff62668ab851b4517b008c8730 *man/topNodes.Rd
